@@ -1,1 +1,1 @@
-INSERT INT
+INSERT INTO bears()
